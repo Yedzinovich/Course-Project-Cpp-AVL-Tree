@@ -1,0 +1,132 @@
+FILE NAME: report.txt
+				STATISTICAL SUMMARY
+
+
+TOTAL NUMBER OF SENTENCES 7
+TOTAL NUMBER OF WORDS: 131
+TOTAL NUMBER OF “UNIQUE” WORDS: 59
+TOTAL NUMBER OF “UNIQUE” WORDS OF MORE THAN THREE LETTERS: 40
+AVERAGE SENTENCE LENGTH: 18 words
+AVERAGE WORD LENGTH: 5 characters 
+
+				STLE WARNINGS
+
+WORDS USED TOO OFTEN: (WORDS OF MORE THAN 3 LETTERS THAT ARE USED MORE THAN 5% OF THE TOTAL NUMBER OF WORDS OF MORE THAN 3 LETTERS )
+
+	1) text
+	2) subline
+
+AVERAGE SENTENCE LENGTH TOO LONG - 18 words
+
+  A
+--------
+a
+advantage
+all
+an
+and
+available
+
+  B
+--------
+bar
+beauty
+built
+
+  C
+--------
+components
+computer
+cross-platform
+custom
+
+  E
+--------
+each
+engine
+every
+
+  F
+--------
+for
+from
+functionality
+
+  H
+--------
+highlighting
+
+  I
+--------
+is
+it
+
+  L
+--------
+license
+linux
+
+  M
+--------
+mac
+matter
+
+  N
+--------
+native
+need
+no
+
+  O
+--------
+of
+on
+one
+operating
+optimized
+own
+
+  P
+--------
+performance
+platform
+powerful
+providing
+
+  R
+--------
+responsiveness
+
+  S
+--------
+sets
+speed
+sublime
+subline
+syntax
+system
+
+  T
+--------
+taking
+text
+the
+to
+toolkit
+
+  U
+--------
+ui
+unmatched
+use
+uses
+
+  W
+--------
+what
+while
+windows
+
+  Y
+--------
+you
